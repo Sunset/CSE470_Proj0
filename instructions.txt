@@ -1,0 +1,19 @@
+Creater: Allen Hsia
+CSE470
+
+The executable is in the debug folder once you open the folder P0.Hsia.V1. It is not
+in the Debug folder after you click the Project1 folder
+The source code is available to access several ways. You may click on the sln file or
+click on the Project1 folder and then click on the Proj1.cpp.
+
+Note: I copied everything from the downloaded files from myasu, basic.c, into the new
+file Proj1.cpp. This is why you see Proj1.cpp instead of basic.c.
+
+A) There is no special keys, except that to exit, simply click the x button
+on the top right corner
+B) Some special functions that I implemented is when I resive the window, the color
+stays the same.
+C) There was no negotiation with the TA. The instructions simply said to change the color
+and make sure the color doesn't change after resizing
+D) I think openl is pretty cool and important
+E) I used the glut32.dll and glut32.lib
